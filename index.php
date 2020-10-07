@@ -6,7 +6,7 @@ require __DIR__.'/vendor/autoload.php';
 //date_default_timezone_set('Asia/Taipei');
 
 use Carbon\Carbon;
-Carbon::setLocale('zh-tw');
+//Carbon::setLocale('zh');
 
 
 // connect to dabase
